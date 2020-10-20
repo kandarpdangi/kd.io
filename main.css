@@ -1,0 +1,116 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__1 {
+	position: absolute;
+	width: 1366px;
+	height: 1818px;
+	background-color: rgba(240,241,238,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Path_1_j {
+	fill: url(#Path_1_j);
+}
+.Path_1_j {
+	overflow: visible;
+	position: absolute;
+	width: 1633.686px;
+	height: 838.43px;
+	left: 0px;
+	top: 0.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_2 {
+	fill: rgba(72,68,68,1);
+	stroke: rgba(51,235,178,0.851);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	height: 90px;
+	left: 51px;
+	top: 42px;
+}
+#Mask_Group_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 84px;
+	height: 82px;
+	left: 54px;
+	top: 45px;
+	overflow: visible;
+}
+#Front-end_Developer_Python_Scr {
+	left: 157px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 48px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(137,155,149,1);
+}
+#Ellipse_3 {
+	fill: rgba(233,135,135,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 150px;
+	top: 93px;
+}
+#Ellipse_4 {
+	fill: rgba(233,135,135,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 150px;
+	top: 112px;
+}
+#Kandarp_Dangi {
+	transform: matrix(1,0,0,1,133.1202,45.0742) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 181.526px;
+	height: 38.040260314941406px;
+	text-align: center;
+	font-family: MV Boli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(54,210,161,1);
+}
