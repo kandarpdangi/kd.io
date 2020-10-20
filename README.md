@@ -1,1 +1,0 @@
-# kandarp.github.io
